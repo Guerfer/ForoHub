@@ -1,0 +1,1 @@
+alter table topicos add fechaDeActualizacion varchar(100) not null;
