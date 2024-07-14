@@ -71,6 +71,17 @@ Ahora lo volveremos a listar para valisar.
 
   ![image](https://github.com/user-attachments/assets/8200f146-a3dc-45f6-8b93-172e92771b16)
 
+7. Para poder eliminar un tópico escogemos la opción de tipo DEL “Eliminar Tópico” la cual lleva como dirección http://localhost:8080/topicos/  y escogemos el parámetro “Auth” y la opción “Bearer Token” y pegamos el toquen copiado anteriormente.
+Antes debemos colocar un ID que deseamos borrar por ejemplo usaremos el 7 y pulsamos en botón “Send”. 
+
+   ![image](https://github.com/user-attachments/assets/846297fb-41fb-4707-9c2e-3e683a263105)
+
+Y ahora consultaremos ese tópico para validar si fue borrado.
+
+   ![image](https://github.com/user-attachments/assets/26b89fe9-148c-4173-88f7-034edeba3876)
+
+
+
 
 
 
