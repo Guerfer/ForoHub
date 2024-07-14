@@ -80,6 +80,24 @@ Y ahora consultaremos ese tópico para validar si fue borrado.
 
    ![image](https://github.com/user-attachments/assets/26b89fe9-148c-4173-88f7-034edeba3876)
 
+### Contribución
+Gracias por considerar contribuir en el proyecto. Aquí hay algunas formas en las que puedes ayudar:
+- Clona este repositorio en tu máquina local.
+- Crea una nueva rama para tus cambios
+- Realiza tus modificaciones y confirma los cambios
+- Envía una solicitud de extracción (pull request) desde tu rama a la rama principal.
+
+Espero tus contribuciones. ¡Gracias! 
+
+### Licencia
+
+Este proyecto está bajo la Licencia MIT.
+
+
+
+
+### Fin
+
 
 
 
